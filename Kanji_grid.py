@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Upstream: https://github.com/tsudoko/kanjigrid
-# AnkiWeb:  https://ankiweb.net/shared/info/909972618
+# Upstream: https://github.com/philipwastakenwastaken/kanjigrid
+# AnkiWeb:  TODO
 
 import enum
 import operator
